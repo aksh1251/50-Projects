@@ -9,5 +9,7 @@
 | 5 | Blurry Loading | https://affectionate-brattain-dc8b66.netlify.app/ |
 | 6 | Scroll Animation | https://serene-mcclintock-0244c9.netlify.app/ |
 | 7 | Sound Board | https://priceless-bassi-eef527.netlify.app/ |
+| 8 | Hover Board | https://amazing-wozniak-dc837f.netlify.app/ |
+
 
 
