@@ -11,6 +11,8 @@
 | 7 | Sound Board | https://priceless-bassi-eef527.netlify.app/ |
 | 8 | Hover Board | https://amazing-wozniak-dc837f.netlify.app/ |
 | 9 | Form Input Wave | https://inspiring-neumann-0327dd.netlify.app/ |
+| 10 | Split Landing Page | https://romantic-kirch-7adecf.netlify.app/ |
+| 11 | Kinetic Loader | https://youthful-hermann-9b13e6.netlify.app/ |
 
 
 
