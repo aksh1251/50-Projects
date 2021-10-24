@@ -15,6 +15,7 @@
 | 11 | Kinetic Loader | https://youthful-hermann-9b13e6.netlify.app/ |
 | 12 | Random Image Feed | https://eloquent-bartik-5ed74e.netlify.app/ |
 | 13 | Dad Jokes | https://affectionate-wright-fe3266.netlify.app/ |
-
+| 14 | Event Key Listener | https://sleepy-goldstine-366747.netlify.app/ |
+| 15 | FAQ Collapse |https://stoic-ramanujan-86183c.netlify.app/ |
 
 
