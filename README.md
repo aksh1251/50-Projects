@@ -17,5 +17,10 @@
 | 13 | Dad Jokes | https://affectionate-wright-fe3266.netlify.app/ |
 | 14 | Event Key Listener | https://sleepy-goldstine-366747.netlify.app/ |
 | 15 | FAQ Collapse |https://stoic-ramanujan-86183c.netlify.app/ |
-
+| 16 | Button Ripple Effect | https://adoring-yalow-bb46fc.netlify.app/ | 
+| 17 | Auto Text Effect | https://mystifying-benz-67393f.netlify.app/ | 
+| 18 | Netflix Navigation | https://confident-lewin-63e41a.netlify.app/ | 
+| 19 | Animated Navigation | https://determined-volhard-96685b.netlify.app/ | 
+| 20 | Background Slider | https://lucid-kowalevski-4f8787.netlify.app/ | 
+| 21 | Double Vertical Slider | https://xenodochial-brown-813d95.netlify.app/ | 
 
