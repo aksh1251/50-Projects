@@ -23,4 +23,5 @@
 | 19 | Animated Navigation | https://determined-volhard-96685b.netlify.app/ | 
 | 20 | Background Slider | https://lucid-kowalevski-4f8787.netlify.app/ | 
 | 21 | Double Vertical Slider | https://xenodochial-brown-813d95.netlify.app/ | 
+| 22 | Toast Notification | https://serene-pasteur-15c5d1.netlify.app/ |
 
