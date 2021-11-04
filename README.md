@@ -24,4 +24,6 @@
 | 20 | Background Slider | https://lucid-kowalevski-4f8787.netlify.app/ | 
 | 21 | Double Vertical Slider | https://xenodochial-brown-813d95.netlify.app/ | 
 | 22 | Toast Notification | https://serene-pasteur-15c5d1.netlify.app/ |
+| 23 |  Theme Clock | https://agitated-edison-89c408.netlify.app/  |
+| 24 | Feedback Rating | https://cranky-mcnulty-716e64.netlify.app/ |
 
