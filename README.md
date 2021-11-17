@@ -26,4 +26,10 @@
 | 22 | Toast Notification | https://serene-pasteur-15c5d1.netlify.app/ |
 | 23 |  Theme Clock | https://agitated-edison-89c408.netlify.app/  |
 | 24 | Feedback Rating | https://cranky-mcnulty-716e64.netlify.app/ |
+| 25 | Double Click Heart | https://naughty-pare-f3a95f.netlify.app/ |
+| 26 | Verify Account | https://clever-dubinsky-c9ebf8.netlify.app/ |
+| 27 | Password Generator | https://condescending-benz-8c705d.netlify.app/ |
+| 28 | Password Strength Background | https://focused-kepler-bf456f.netlify.app/ |
+| 29 | Catch the Insect | https://stoic-lumiere-f9a7c8.netlify.app/ |
+| 30 | ToDos | https://jolly-spence-9d9499.netlify.app/ |
 
