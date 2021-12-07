@@ -32,4 +32,6 @@
 | 28 | Password Strength Background | https://focused-kepler-bf456f.netlify.app/ |
 | 29 | Catch the Insect | https://stoic-lumiere-f9a7c8.netlify.app/ |
 | 30 | ToDos | https://jolly-spence-9d9499.netlify.app/ |
+| 31 | Random Choice Picker | https://gifted-pasteur-a55b15.netlify.app/ |
+| 32 | Incrementing Counter |  https://ecstatic-lewin-5502fa.netlify.app/ |
 
