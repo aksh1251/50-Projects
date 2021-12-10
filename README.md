@@ -34,4 +34,11 @@
 | 30 | ToDos | https://jolly-spence-9d9499.netlify.app/ |
 | 31 | Random Choice Picker | https://gifted-pasteur-a55b15.netlify.app/ |
 | 32 | Incrementing Counter |  https://ecstatic-lewin-5502fa.netlify.app/ |
+| 33 | Drink Water App | https://serene-bhabha-427101.netlify.app/ |
+| 34 | Movie App | https://loving-thompson-4d7a69.netlify.app/ |
+| 35 | Drag n Drop | https://confident-jones-cf26a0.netlify.app/ |
+| 36 | Content Placeholder | https://naughty-varahamihira-c3307c.netlify.app/  |
+| 37 | Drawing App | https://dreamy-goldberg-b78921.netlify.app/ |
+| 38 | Sticky Navigation | https://confident-noether-a6199b.netlify.app/ |
+
 
