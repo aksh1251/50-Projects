@@ -40,5 +40,9 @@
 | 36 | Content Placeholder | https://naughty-varahamihira-c3307c.netlify.app/  |
 | 37 | Drawing App | https://dreamy-goldberg-b78921.netlify.app/ |
 | 38 | Sticky Navigation | https://confident-noether-a6199b.netlify.app/ |
+| 39 | Github Profiles | https://optimistic-swartz-49baa5.netlify.app/ |
+| 40 | Good Cheap Fast Checkboxes | https://practical-volhard-848700.netlify.app/ |
+| 41 | Notes App | https://unruffled-hoover-b3d29b.netlify.app/ |
+
 
 
